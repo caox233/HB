@@ -1,0 +1,34 @@
+2025-07-09 14:17:31,010 [1] INFO  Logger (null) - Hearthbuddy Version: 0.0.0.0
+Path: C:\Users\<Username>\Desktop\HB\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.19045
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2025-07-09 14:17:31,055 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2025-07-09 14:17:31,057 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2025-07-09 14:17:31,058 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2025-07-09 14:17:31,058 [1] INFO  Logger (null) - Now checking prerequisites...
+2025-07-09 14:17:31,075 [1] ERROR Logger (null) - [中控设置] 默认设置操作系统 = Windows10.
+2025-07-09 14:17:31,531 [1] INFO  Logger (null) - Prerequisite check complete!
+2025-07-09 14:17:31,601 [1] INFO  Logger (null) - svchostPath: C:\Windows\System32\svchost.exe
+2025-07-09 14:17:31,619 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2025-07-09 14:17:31,631 [1] INFO  Logger (null) - [AuthRegion] China.
+2025-07-09 14:17:32,140 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 5
+2025-07-09 14:17:32,142 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 20
+2025-07-09 14:17:32,187 [1] INFO  Logger (null) - Hearthbuddy [0.0.0.0] is up to date!
+2025-07-09 14:17:33,395 [1] INFO  Logger (null) - 检测到炉石进程！
+2025-07-09 14:17:34,010 [7] WARN  Logger (null) - System.InvalidOperationException: No process is associated with this object.
+   at System.Diagnostics.Process.EnsureState(State state)
+   at System.Diagnostics.Process.EnsureState(State state)
+   at System.Diagnostics.Process.get_Modules()
+   at GreyMagic.ExternalProcessMemory.GetProcAddress(String module, String function)
+   at GreyMagic.Executor.InitializeDetour()
+   at GreyMagic.Executor..ctor(ExternalProcessMemory memory, ExecutorInitParams initParams)
+   at GreyMagic.ExternalProcessMemory.Init(ExternalProcessMemoryInitParams initParams)
+   at GreyMagic.ExternalProcessMemory..ctor(ExternalProcessMemoryInitParams initParams)
+   at Triton.Game.TritonHs.smethod_0(Process process_0, Delegate6 delegate6_0, String& string_0) in C:\Users\Administrator\Desktop\资料\琴hb源码\Hearthstone-myHearthStudy\mybuddy\Triton\Game\TritonHs.cs:line 768
+2025-07-09 14:17:34,011 [7] WARN  Logger (null) - 未能绑定到炉石进程，请重新启动炉石！

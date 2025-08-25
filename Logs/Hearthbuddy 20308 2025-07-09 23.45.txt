@@ -1,0 +1,86 @@
+2025-07-09 15:45:55,038 [1] INFO  Logger (null) - Hearthbuddy Version: 0.0.0.0
+Path: C:\Users\<Username>\Desktop\HB\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.19045
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2025-07-09 15:45:55,075 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2025-07-09 15:45:55,077 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2025-07-09 15:45:55,078 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2025-07-09 15:45:55,079 [1] INFO  Logger (null) - Now checking prerequisites...
+2025-07-09 15:45:55,086 [1] ERROR Logger (null) - [中控设置] 默认设置操作系统 = Windows10.
+2025-07-09 15:45:55,522 [1] INFO  Logger (null) - Prerequisite check complete!
+2025-07-09 15:45:55,600 [1] INFO  Logger (null) - svchostPath: C:\Windows\System32\svchost.exe
+2025-07-09 15:45:55,618 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2025-07-09 15:45:55,628 [1] INFO  Logger (null) - [AuthRegion] China.
+2025-07-09 15:45:56,178 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 5
+2025-07-09 15:45:56,179 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 20
+2025-07-09 15:45:56,220 [1] INFO  Logger (null) - Hearthbuddy [0.0.0.0] is up to date!
+2025-07-09 15:45:57,198 [1] INFO  Logger (null) - 检测到炉石进程！
+2025-07-09 15:45:58,414 [7] INFO  Logger (null) - 绑定到炉石进程！
+2025-07-09 15:45:58,464 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2025-07-09 15:45:59,681 [7] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2025-07-09 15:45:59,686 [7] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 请选择卡组.
+2025-07-09 15:45:59,695 [7] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = False.
+2025-07-09 15:45:59,696 [7] INFO  Logger (null) - [天梯脚本设置] 需要缓存卡组 = True.
+2025-07-09 15:45:59,696 [7] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2025-07-09 15:45:59,697 [7] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2025-07-09 15:45:59,698 [7] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2025-07-09 15:45:59,699 [7] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2025-07-09 15:45:59,699 [7] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2025-07-09 15:45:59,700 [7] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2025-07-09 15:45:59,701 [7] INFO  Logger (null) - [天梯脚本设置] 立即投降 = False.
+2025-07-09 15:45:59,701 [7] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2025-07-09 15:45:59,701 [7] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2025-07-09 15:45:59,702 [7] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2025-07-09 15:45:59,745 [7] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2025-07-09 15:45:59,749 [7] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 30.
+2025-07-09 15:45:59,751 [7] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = False.
+2025-07-09 15:45:59,752 [7] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 1080.
+2025-07-09 15:45:59,756 [7] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 1440.
+2025-07-09 15:45:59,758 [7] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 1080.
+2025-07-09 15:45:59,759 [7] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = False.
+2025-07-09 15:45:59,760 [7] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2025-07-09 15:45:59,760 [7] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2025-07-09 15:45:59,760 [7] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2025-07-09 15:45:59,761 [7] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2025-07-09 15:45:59,761 [7] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2025-07-09 15:45:59,762 [7] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.1.
+2025-07-09 15:45:59,802 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2025-07-09 15:45:59,802 [1] DEBUG Logger (null) - Current bot set to 天梯脚本.
+2025-07-09 15:47:05,558 [7] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨通用丨不设惩罚.
+2025-07-09 15:47:05,563 [7] INFO  Logger (null) - [默认策略设置] AI值 = 3000.
+2025-07-09 15:47:05,564 [7] INFO  Logger (null) - [默认策略设置] 最大考虑步数 = 12.
+2025-07-09 15:47:05,565 [7] INFO  Logger (null) - [默认策略设置] 每步最大保留场面数 = 60.
+2025-07-09 15:47:05,565 [7] INFO  Logger (null) - [默认策略设置] 防奥秘 = False.
+2025-07-09 15:47:05,566 [7] INFO  Logger (null) - [默认策略设置] 不生成对战日志 = True.
+2025-07-09 15:47:05,567 [7] INFO  Logger (null) - [默认策略设置] 打印出牌惩罚 = False.
+2025-07-09 15:47:05,568 [7] INFO  Logger (null) - [默认策略设置] 是否打印自定义惩罚 = False.
+2025-07-09 15:47:05,569 [7] INFO  Logger (null) - [默认策略设置] 下回合斩杀本回合打脸 = False.
+2025-07-09 15:47:05,570 [7] INFO  Logger (null) - [默认策略设置] 打脸阈值 = 27.
+2025-07-09 15:47:05,570 [7] INFO  Logger (null) - [默认策略设置] 打脸奖励 = -5.
+2025-07-09 15:47:05,580 [7] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨狂野丨快攻暗牧.
+2025-07-09 15:47:05,583 [7] INFO  Logger (null) - [默认策略设置] AI值 = 3000.
+2025-07-09 15:47:05,583 [7] INFO  Logger (null) - [默认策略设置] 最大考虑步数 = 12.
+2025-07-09 15:47:05,584 [7] INFO  Logger (null) - [默认策略设置] 每步最大保留场面数 = 60.
+2025-07-09 15:47:05,584 [7] INFO  Logger (null) - [默认策略设置] 防奥秘 = False.
+2025-07-09 15:47:05,585 [7] INFO  Logger (null) - [默认策略设置] 不生成对战日志 = False.
+2025-07-09 15:47:05,585 [7] INFO  Logger (null) - [默认策略设置] 打印出牌惩罚 = False.
+2025-07-09 15:47:05,585 [7] INFO  Logger (null) - [默认策略设置] 是否打印自定义惩罚 = False.
+2025-07-09 15:47:05,586 [7] INFO  Logger (null) - [默认策略设置] 下回合斩杀本回合打脸 = False.
+2025-07-09 15:47:05,586 [7] INFO  Logger (null) - [默认策略设置] 打脸阈值 = 27.
+2025-07-09 15:47:05,587 [7] INFO  Logger (null) - [默认策略设置] 打脸奖励 = 0.
+2025-07-09 15:47:06,524 [1] DEBUG Logger (null) - Current routine set to 天梯策略.
+2025-07-09 15:47:06,547 [7] DEBUG Logger (null) - [自动停止插件] 初始化
+2025-07-09 15:47:06,565 [7] DEBUG Logger (null) - [监控插件] 初始化
+2025-07-09 15:47:06,592 [7] DEBUG Logger (null) - [统计插件] 初始化
+2025-07-09 15:47:06,616 [7] DEBUG Logger (null) - [任务插件] 初始化
+2025-07-09 15:47:06,633 [7] DEBUG Logger (null) - [自动停止插件] 启用
+2025-07-09 15:47:06,660 [7] DEBUG Logger (null) - [监控插件] 启用
+2025-07-09 15:47:06,701 [7] DEBUG Logger (null) - [统计插件] 启用
+2025-07-09 15:47:06,730 [7] DEBUG Logger (null) - [任务插件] 启用
+2025-07-09 15:47:06,882 [7] ERROR Logger (null) - 炉石学习V1.1.0--[2025-07-9]--星辰大海
